@@ -1,6 +1,8 @@
+#First import random module
 import random
 
 def generate_random_color():
+    # Generate any random color code with this logic
     red = random.randint(0, 255)
     green = random.randint(0, 255)
     blue = random.randint(0, 255)
