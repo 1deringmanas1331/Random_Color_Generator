@@ -1,4 +1,4 @@
-#First import random module
+# Import random module
 import random
 
 def generate_random_color():
