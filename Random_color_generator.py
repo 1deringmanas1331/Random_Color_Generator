@@ -1,4 +1,4 @@
-# Import random module
+# Import random library
 import random
 
 #Define a function for generating a random color
